@@ -618,7 +618,7 @@
 
 <!-- NAV -->
 <nav id="navbar">
-  <a href="#" class="logo">Edu<span>Vista</span></a>
+  <a href="#" class="logo">Tahad <span>International</span></a>
   <ul class="nav-links">
     <li><a href="#destinations">Destinations</a></li>
     <li><a href="#universities">Universities</a></li>
@@ -1018,8 +1018,22 @@
   <div class="container">
     <div class="footer-grid">
       <div class="footer-brand">
-        <a href="#" class="logo">Edu<span>Vista</span></a>
-        <p class="footer-tagline">Helping ambitious students from India and beyond access world-class education since 2014. Offices in Mumbai, Delhi, Bangalore, and Hyderabad.</p>
+        <a href="#" class="logo">Tahad <span>International</span></a>
+        <p class="footer-tagline">Helping ambitious students access world-class education globally.</p>
+        <div style="margin-top:1.2rem; display:flex; flex-direction:column; gap:0.55rem;">
+          <div style="display:flex; gap:0.6rem; align-items:flex-start; font-size:0.82rem; color:rgba(255,255,255,0.38); font-weight:300; line-height:1.6;">
+            <span style="color:var(--gold); margin-top:2px;">📍</span>
+            <span>201, Tahad International, Mehadipatnam,<br>Hyderabad, Telangana, India 500028</span>
+          </div>
+          <div style="display:flex; gap:0.6rem; align-items:center; font-size:0.82rem; color:rgba(255,255,255,0.38); font-weight:300;">
+            <span style="color:var(--gold);">📞</span>
+            <a href="tel:+919891303654" style="color:rgba(255,255,255,0.38); text-decoration:none; transition:color 0.2s;" onmouseover="this.style.color='#E8C472'" onmouseout="this.style.color='rgba(255,255,255,0.38)'">+91 98913 03654</a>
+          </div>
+          <div style="display:flex; gap:0.6rem; align-items:center; font-size:0.82rem; color:rgba(255,255,255,0.38); font-weight:300;">
+            <span style="color:var(--gold);">✉️</span>
+            <a href="mailto:tahadinternationaleducation@gmail.com" style="color:rgba(255,255,255,0.38); text-decoration:none; transition:color 0.2s;" onmouseover="this.style.color='#E8C472'" onmouseout="this.style.color='rgba(255,255,255,0.38)'">tahadinternationaleducation@gmail.com</a>
+          </div>
+        </div>
       </div>
       <div>
         <div class="footer-col-title">Destinations</div>
